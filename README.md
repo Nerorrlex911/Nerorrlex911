@@ -1,5 +1,4 @@
 - Minecraft、魂类游戏爱好者
-- 科研方向: 医药人工智能
 - 常用ID: Nerorrlex,Zima_Blue
 
 ![Zima_Blue's github stats](https://github-readme-stats.vercel.app/api?username=Nerorrlex911&show_icons=true)
